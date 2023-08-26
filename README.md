@@ -1,4 +1,4 @@
-# gaze_control (Swift Student Challenge 2022 Winner)
+# gaze_control (🧑‍💻Swift Student Challenge 2022 Winner)
 A Swift Playgrounds app intended to experiment with the implementation of gaze control using ARKit's anchoring APIs.
 
 The app provides a guided walkthrough on the importance of gaze control in accessibility, an overview of existing gaze control capabilities on Apple platforms, and demonstrations of different variants of gaze control (gesture to click, dwell click, etc.).
